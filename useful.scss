@@ -1,5 +1,5 @@
 .responsive-typography {
-	font-size: calc(16px + 0.5vw);
+    font-size: calc(16px + 0.5vw);
 }
 
 .same-font-size {
@@ -10,32 +10,31 @@
 }
 
 .sticky-footer {
-	min-height: 100vh;
+    min-height: 100vh;
 }
 
 .fullscreen-section {
-	max-height: 85px;
+    max-height: 85px;
 }
 
 /* SCSS */
 @mixin opacity($opacity) {
-  opacity: $opacity;
-  $opacity-ie: $opacity * 100;
-  filter: alpha(opacity=$opacity-ie); //IE8
+    opacity: $opacity;
+    $opacity-ie: $opacity * 100;
+    filter: alpha(opacity=$opacity-ie); //IE8
 }
 
 @function calculateRem($size) {
-  $remSize: $size / 16px;
-  @return $remSize * 1rem;
+    $remSize: $size / 16px;
+    @return $remSize * 1rem;
 }
 
 @mixin font-size($size) {
-  font-size: $size;
-  font-size: calculateRem($size);
+    font-size: $size;
+    font-size: calculateRem($size);
 }
 
 Sources:
 - my experience
 - http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/
 - https://css-tricks.com/fun-viewport-units/
-- 
