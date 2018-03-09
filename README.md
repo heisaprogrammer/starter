@@ -18,6 +18,9 @@ Project base, tools and tips for website development.
 - communication and documentation: Confluence, Google Docs
 - collection of _some_ front-end tools: http://fredsarmento.me/frontend-tools/
 
+# Articles
+- Front-end code standards https://isobar-us.github.io/code-standards/
+
 # Courses
 - https://www.sololearn.com/
 - https://www.codecademy.com/
