@@ -6,6 +6,9 @@ Project base, tools and tips for website development.
 - hamburgers - https://jonsuh.com/hamburgers/
 - border transitions - https://codepen.io/giana/pen/yYBpVY
 
+# Javascript 
+- vanilla JS function instead of jQuery https://plainjs.com/javascript/
+
 # Image
 - Compressor.io - online image **compression** - https://compressor.io/compress
 - Markdown cheatsheet *(example)* - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
