@@ -17,8 +17,6 @@ Project base, tools and tips for website development.
 - chat: Slack, Stride
 - videocall: zoom, appear.in
 - Google Fonts pairing: http://fontpair.co/
-- collaboration and status tools: Trello
-- communication and documentation: Confluence, Google Docs
 - collection of _some_ front-end tools: http://fredsarmento.me/frontend-tools/
 
 # Articles
@@ -37,5 +35,6 @@ Project base, tools and tips for website development.
 
 # Git
 - [Tips](https://github.com/tomash18r/starter/blob/master/git.md)
+- [So you have a mess on your hand?](http://justinhileman.info/article/git-pretty/full/?fbclid=IwAR1pwLNrwD9ZC-wOgbkgjRaVMnMhjFmxk0Z4kaRjkgVZKqderITJcPugOCw)
 
 TODO: my SASS mixins, HTML boilerplates, projects start.
