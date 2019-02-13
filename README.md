@@ -21,6 +21,7 @@ Project base, tools and tips for website development.
 
 # Articles
 - Front-end code standards https://isobar-us.github.io/code-standards/
+- [Bulldogjob - The space for IT people](https://bulldogjob.pl/)
 
 # Courses
 - https://www.sololearn.com/
