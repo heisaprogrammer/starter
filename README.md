@@ -32,6 +32,9 @@ Project base, tools and tips for website development.
 - https://github.com/workshopper/ (https://nodeschool.io/)
 - http://todomvc.com/
 
+# npm
+- mozjpeg, optipng, svgo - automatic optimization of images
+
 # Git
 - [Tips](https://github.com/tomash18r/starter/blob/master/git.md)
 
