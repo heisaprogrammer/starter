@@ -17,6 +17,12 @@
     max-height: 85px;
 }
 
+.wrapper::after { // container with floating elements - repair moving below elements
+    content: "";
+    display: table;
+    clear: both;
+}
+
 /* SCSS */
 @mixin opacity($opacity) {
     opacity: $opacity;
